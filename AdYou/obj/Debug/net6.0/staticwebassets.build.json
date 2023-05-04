@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "XmkwxOeakY5IBtbhHnQ3EopygLNyg0ILLSCL+QOqCxQ=",
+  "Source": "AdYou",
+  "BasePath": "_content/AdYou",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AdYou\\wwwroot",
+      "Source": "AdYou",
+      "ContentRoot": "D:\\Kursach2.0\\AdYou\\wwwroot\\",
+      "BasePath": "_content/AdYou",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
